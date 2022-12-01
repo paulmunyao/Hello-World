@@ -25,19 +25,19 @@ This is a project that demonstarates the fundamentals of programming
 ### 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
 The project has been built using mainly HTML & CSS.Whereby HTML as a markup language to ensure there is flow and the document is well displayed and in good format while CSS has been used for styling the document.
+
 
 ### Key Features <a name="key-features"></a>
 
 Currently there are no key features in the project.Incase there are any they will be added into the program
 
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
-## Prerequisites <a name="prerequisites"></a>
-
+##  Prerequisites <a name="prerequisites"></a>
 ### Prerequisites
 
 In order to run this project you need:
@@ -51,8 +51,7 @@ Clone this repository to your desired folder:
   git clone https://github.com/paulmunyao/Hello-World.git
 ```
 
-## Install <a name="install"></a>
-
+## Install <a name="install"></a>  
 Install linters
 
 ```
@@ -72,6 +71,7 @@ Open the project in VScode and click on live server for the project to be up and
 You can deploy this project using:Github
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 👥 Authors <a name="authors"></a>
 
